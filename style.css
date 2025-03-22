@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+  
+a{
+    text-decoration: none;
+}
+.footer{
+    background: url(./asets/img/bg.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.br{
+    background: url(./asets/img/bg3.png);
+    opacity:100%;
+}
+.upper{
+    margin-top: ;
+}
+.btn{
+    text-align: center;
+    background: red;
+    margin-left: 400px;
+}
+.btr{
+    
+    background: red;
+    width: 200px;
+    justify-content: center;
+    align-self: center;
+   
+}
+
+}
